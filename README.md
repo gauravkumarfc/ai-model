@@ -4,7 +4,7 @@ A Ai model Website made with React.js Framework.
 
 ## Demo
 
-https://aimodel-gauravkumar.netlify.app/
+# https://aimodel-gauravkumar.netlify.app/
 
 ## Features
 
