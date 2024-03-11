@@ -1,10 +1,10 @@
 # Ai model Website
 
-A Ecommerce Website made with React.js Framework.
+A Ai model Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://aimodel-gauravkumar.netlify.app/
 
 ## Features
 
@@ -15,8 +15,3 @@ https://reactjs-ecommerce-app.vercel.app/
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Bootstrap](https://getbootstrap.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
